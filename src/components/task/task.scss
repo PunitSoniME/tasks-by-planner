@@ -1,0 +1,37 @@
+.task {
+    margin-bottom: 15px;
+    border: 1px solid lightgray;
+    padding: 5px 15px;
+    cursor: pointer;
+    position: relative;
+
+    .list-item-width {
+        min-width: 35px !important;
+    }
+
+    .label {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 5px;
+    }
+
+    .text-with-icon,
+    .text-with-icon > svg {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        font-size: 15px;
+        color: gray;
+    }
+
+    .notes {
+        font-size: 15px;
+        color: gray;
+    }
+
+    .task-more-options {
+        position: absolute;
+        right: 0px;
+        top: 2px;
+    }
+}

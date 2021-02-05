@@ -1,0 +1,84 @@
+.tasks-main {
+    .main-container {
+        display: flex;
+        flex-wrap: nowrap;
+        padding: 20px;
+        gap: 30px;
+    }
+
+    // .main-container div {
+    //     /* border: 1px solid lightgray; */
+    //     min-width: 300px;
+    //     /* padding: 10px; */
+    // }
+
+    .bucket {
+        display: flex;
+        // justify-content: space-between;
+        // align-items: center;
+        flex-direction: column;
+        min-width: 300px;
+        max-width: 300px;
+    }
+
+    .bucket-top {
+        // .bucket-more-options {
+        //     visibility: hidden;
+        // }
+    }
+
+    .bucket-top {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 30px;
+    }
+
+    // .bucket-top:hover {
+    //     .bucket-more-options {
+    //         visibility: visible;
+    //     }
+    // }
+
+    .btn {
+        padding: 5px;
+        font-size: 0.9rem;
+        text-transform: none;
+        font-weight: 700;
+        color: var(--primary);
+        padding: 0px 10px;
+        letter-spacing: 0px;
+    }
+
+    .bucket-options-list {
+        width: 200px;
+    }
+
+    .add-new-task-block {
+        margin-top: 30px;
+    }
+
+    .add-new-task {
+        margin-top: 10px;
+        margin-bottom: 15px;
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        padding: 15px;
+        border: 1px solid lightgray;
+        width: 300px;
+    }
+
+    .list-item-width {
+        min-width: 35px !important;
+    }
+
+    .according-header-bg-color {
+        background-color: var(--light);
+    }
+
+    .pending-tasks {
+        min-height: 50px;
+        // border: 1px solid lightgray; 
+    }
+}
