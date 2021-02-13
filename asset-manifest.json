@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tasks-by-planner/static/css/main.09c7c736.chunk.css",
+    "main.js": "/tasks-by-planner/static/js/main.0c0c4cba.chunk.js",
+    "main.js.map": "/tasks-by-planner/static/js/main.0c0c4cba.chunk.js.map",
+    "runtime-main.js": "/tasks-by-planner/static/js/runtime-main.e61ee327.js",
+    "runtime-main.js.map": "/tasks-by-planner/static/js/runtime-main.e61ee327.js.map",
+    "static/js/2.6603b39e.chunk.js": "/tasks-by-planner/static/js/2.6603b39e.chunk.js",
+    "static/js/2.6603b39e.chunk.js.map": "/tasks-by-planner/static/js/2.6603b39e.chunk.js.map",
+    "static/js/3.d0f6f9ec.chunk.js": "/tasks-by-planner/static/js/3.d0f6f9ec.chunk.js",
+    "static/js/3.d0f6f9ec.chunk.js.map": "/tasks-by-planner/static/js/3.d0f6f9ec.chunk.js.map",
+    "index.html": "/tasks-by-planner/index.html",
+    "static/css/main.09c7c736.chunk.css.map": "/tasks-by-planner/static/css/main.09c7c736.chunk.css.map",
+    "static/js/2.6603b39e.chunk.js.LICENSE.txt": "/tasks-by-planner/static/js/2.6603b39e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e61ee327.js",
+    "static/js/2.6603b39e.chunk.js",
+    "static/css/main.09c7c736.chunk.css",
+    "static/js/main.0c0c4cba.chunk.js"
+  ]
+}
