@@ -6,4 +6,4 @@
 ### yarn install
 ### yarn start
 
-# You can directly check this app's live version from here too: 
+# You can directly check this app's live version from here too: https://punitsonime.github.io/tasks-by-planner
